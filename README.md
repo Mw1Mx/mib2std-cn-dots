@@ -63,7 +63,7 @@ Build, installation, and restoration workflows were checked locally, including s
 
 ## Download ⬇️
 
-Download **`CN Variant dots.zip`** from this repository's **Releases** section.
+Download latest [**`CN Variant dots.zip`**](https://github.com/Mw1Mx/mib2std-cn-dots/releases/tag/1.0) from this repository's
 
 Choose the prepared ZIP under **Assets**. GitHub's automatic **Source code** archives are not the prepared SD package.
 
