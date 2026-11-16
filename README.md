@@ -389,9 +389,9 @@ When reporting a problem, include:
 - A description of the expected and actual behavior.
 - Pictures of the visual issue.
 
-Please distinguish between results observed on the unit and checks performed only on a PC.
-
 ## Credits
 
 - [MIB STD2 PQ/ZR Toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) — the Toolbox used by this project's installation workflow.
 - The enthusiasts who test supported configurations and share feedback.
+
+## De Pantitlan para el mundo salu2:)
