@@ -373,9 +373,6 @@ No. The input folder name selects the destination slot and, where applicable, it
 
 No. Rename the working copy in `input` and rebuild for the intended destination.
 
-### Will CN Dots be visible on every screen?
-
-Some screens retain opaque backgrounds by design. Do not expect particles to be visible on every screen or list.
 
 ## Feedback and contributions
 
@@ -391,7 +388,7 @@ When reporting a problem, include:
 
 ## Credits
 
-- [MIB STD2 PQ/ZR Toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) — the Toolbox used by this project's installation workflow.
+- [MIB STD2 PQ/ZR Toolbox](https://github.com/olli991/mib-std2-pq-zr-toolbox) — Toolbox used by this project's installation workflow.
 - The enthusiasts who test supported configurations and share feedback.
 
 ## De Pantitlan para el mundo salu2:)
