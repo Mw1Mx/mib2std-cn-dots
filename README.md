@@ -1,4 +1,4 @@
-# mib2std-cn-dots Mw1Mx/mib2std-cn-dots
+# mib2std-cn-dots
 
 Bring Chinese-market dots animations and transitions to European **MIB2 Standard Technisat/Preh PQ & ZR**
 
