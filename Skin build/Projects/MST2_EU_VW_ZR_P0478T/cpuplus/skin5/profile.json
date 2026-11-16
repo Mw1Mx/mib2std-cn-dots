@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "enabled": true,
+  "firmware": "MST2_EU_VW_ZR_P0478T",
+  "variant": "cpuplus",
+  "source_skin": "skin5",
+  "compiler": "cn_native_v1",
+  "variant_meaning": "Without navigation; original VW PQ converted to this verified HMI ZR",
+  "build": {
+    "background_indexes": [],
+    "protected_backgrounds": [],
+    "transparent": [],
+    "sd_notice_export_index": null,
+    "copies": {
+      "global": {},
+      "personal": {}
+    },
+    "display_prefixes": {
+      "global": "[CN_Dots]-",
+      "personal": "[CN_Dots]-"
+    },
+    "combination": "VW_ORIGINAL_CN_SKIN1_V3_SKIN5_V2",
+    "particle_multiplier": 1.0,
+    "input_images_policy": "Preserve every existing MCF payload, including SD notice; append CN particle images only"
+  }
+}

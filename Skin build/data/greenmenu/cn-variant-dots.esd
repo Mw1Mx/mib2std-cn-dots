@@ -1,0 +1,23 @@
+# Main -> MIB STD2 Toolbox -> Customization -> CN Variant dots
+screen "CN Variant dots" Customization
+
+keyValue
+    value   String sys 0x00000000 0
+    label   "Install skins prepared with Skin build or restore originals"
+    poll    0
+
+script
+    value   sys 1 0x0100 "/tsd/etc/persistence/esd/scripts/cn_variant_dots.sh"
+    label   "Install CN Variant dots skins"
+
+script
+    value   sys 1 0x0100 "/tsd/etc/persistence/esd/scripts/cn_variant_dots_restore.sh"
+    label   "Uninstall CN Variant dots skins"
+
+script
+    value   sys 1 0x0100 "/tsd/etc/persistence/esd/scripts/cn_variant_dots_clean.sh"
+    label   "Clean CN Variant dots trace"
+
+script
+    value   sys 1 0x0100 "/tsd/etc/persistence/esd/scripts/cn_variant_dots_status.sh"
+    label   "Check CN Variant dots status"

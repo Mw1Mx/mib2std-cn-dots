@@ -1,0 +1,192 @@
+{
+  "schema": 2,
+  "objects": [
+    {
+      "sha256": "50568b3c1e6ecc649dfea3331e928faccf8c7ef7b60e7b6827e3500ed7bb8b10",
+      "size": 13102308,
+      "paths": [
+        "dots/images.mcf"
+      ]
+    },
+    {
+      "sha256": "c8e6d65ef137d88ccddde3818b1a16da2fcf3291b6df19a454cb59a9f66c54d6",
+      "size": 199680,
+      "paths": [
+        "dots/images.res",
+        "installer/status_refs/cn_skin1/images.res"
+      ]
+    },
+    {
+      "sha256": "5d060902f45d0e1375c158a862eb91eeb5adb5f48fdc78e602679ad417624236",
+      "size": 1375,
+      "paths": [
+        "dots/info.txt"
+      ]
+    },
+    {
+      "sha256": "6278eb7354cb45cdbf330a7a4d750ff0b746a6f450dcad3f97d82b7d1211f7d8",
+      "size": 498,
+      "paths": [
+        "dots/skin4/ambienceColorMap.res"
+      ]
+    },
+    {
+      "sha256": "8424265736740ea6e91c1d63254a4759fee1a7233175cf45ba969c53e766ffdc",
+      "size": 13920192,
+      "paths": [
+        "dots/skin4/images.mcf"
+      ]
+    },
+    {
+      "sha256": "a7b6c9f802efe1becad4e6bd8cbffcfc6615edb2eb77f79d3ec025a93fb6c77f",
+      "size": 199680,
+      "paths": [
+        "dots/skin4/images.res",
+        "installer/status_refs/cn_skin4/images.res"
+      ]
+    },
+    {
+      "sha256": "9ffcaac9ca8be5345f1881f55b9d807d6646fb2168f421d1ad3d7edadb1076a1",
+      "size": 1368,
+      "paths": [
+        "dots/skin4/info.txt"
+      ]
+    },
+    {
+      "sha256": "4963824b873746c4438b0dbfd7261874826b990c2c45d389027f018e37182705",
+      "size": 269698,
+      "paths": [
+        "dots/skin4/skinanim.res",
+        "dots/skinanim.res",
+        "installer/status_refs/cn_skin1/view/skinanim.res",
+        "installer/status_refs/cn_skin4/view/skinanim.res"
+      ]
+    },
+    {
+      "sha256": "0d30f695670b394d8db03f5ef762c60b9bbfafcadaa2938254e99a6f6c2b08fc",
+      "size": 9174809,
+      "paths": [
+        "dots/skin4/viewhandler.zip",
+        "installer/status_refs/cn_skin4/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "f15e204db7f1b18fc24a3677d784a86608eb668b5e0ac507516c6a55b6b2d259",
+      "size": 9174800,
+      "paths": [
+        "dots/viewhandler.zip",
+        "installer/status_refs/cn_skin1/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "4aebdcf4206e3e805e54ad95b195690d0783ae9d14de77484a899a88f606f596",
+      "size": 67656,
+      "paths": [
+        "installer/allowed/stock.res"
+      ]
+    },
+    {
+      "sha256": "529340edb38f6be88c1cef4107ef6d97d9f735a60f3566c2f945a66cc538df90",
+      "size": 67766,
+      "paths": [
+        "installer/configuration.res"
+      ]
+    },
+    {
+      "sha256": "49792a33a291fff454088ab0b4c815daa8bc1803385a4fd90478e122e5797eaa",
+      "size": 23781,
+      "paths": [
+        "installer/engine.sh"
+      ]
+    },
+    {
+      "sha256": "2c4fe6abebce43998af07cad028a543df8ef138650b02f8f906d67cae537d347",
+      "size": 19020,
+      "paths": [
+        "installer/maintenance.sh"
+      ]
+    },
+    {
+      "sha256": "05768aefd843bab34e08357f62a6d9b8c60d861b5f8ba7444c14959a99ef3c7c",
+      "size": 22253376,
+      "paths": [
+        "installer/runtime.ifs"
+      ]
+    },
+    {
+      "sha256": "d18a116ba84451cfa84c15b667ed368237c0e3823aa98282911217aee7460ebb",
+      "size": 5786259,
+      "paths": [
+        "installer/runtime_guard/tsd.mibstd2.hmi.v2.jxe"
+      ]
+    },
+    {
+      "sha256": "3a126b5bbdcd49eb88b192eba11bb0178b481bda4fdaa47d64a723a11fb8b482",
+      "size": 143418,
+      "paths": [
+        "installer/status_refs/common/imageidmap.res"
+      ]
+    },
+    {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "paths": [
+        "installer/status_refs/placeholder"
+      ]
+    },
+    {
+      "sha256": "6ed154e3673faa8c7263cbf4f9f32373418270bcfb993f41f46259ceb3474dcb",
+      "size": 188080,
+      "paths": [
+        "installer/status_refs/stock1/images.res",
+        "installer/status_refs/stock4/images.res",
+        "original/images.res"
+      ]
+    },
+    {
+      "sha256": "56f58192cfea735c1a9e1c321a7cea79dc677d95dd91e978e4a32acd6c608d02",
+      "size": 266554,
+      "paths": [
+        "installer/status_refs/stock1/view/skinanim.res",
+        "installer/status_refs/stock4/view/skinanim.res",
+        "original/view/skinanim.res"
+      ]
+    },
+    {
+      "sha256": "48f362890f06a858606aad0e5a8720342f954201f3c0cb4769f0c1fee994a74d",
+      "size": 9179007,
+      "paths": [
+        "installer/status_refs/stock1/viewhandler.zip",
+        "original/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "b69d4471feab5e866430298c34ea887a0d82ee4d31e7b017e59eefa5975aed27",
+      "size": 9182668,
+      "paths": [
+        "installer/status_refs/stock4/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "ab1eb1cd8fae7cbbc9c0bb9cec769b4971ad10ea03b55e4457a517688134b89c",
+      "size": 498,
+      "paths": [
+        "original/ambienceColorMap.res"
+      ]
+    },
+    {
+      "sha256": "59441f5e649567c064126e0b43ab9ceef23606fa2948ca0fa536cf4deff89d01",
+      "size": 12828000,
+      "paths": [
+        "original/images.mcf"
+      ]
+    },
+    {
+      "sha256": "4cdbb90e4c75093059fe56fd42a0044f3cbfdabd26149a8d2b8ad9a2bc2f5b88",
+      "size": 16540,
+      "paths": [
+        "original/view/v2vanims.res"
+      ]
+    }
+  ]
+}

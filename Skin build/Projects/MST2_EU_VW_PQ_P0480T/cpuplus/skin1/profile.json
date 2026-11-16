@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "enabled": true,
+  "firmware": "MST2_EU_VW_PQ_P0480T",
+  "variant": "cpuplus",
+  "source_skin": "skin1",
+  "compiler": "cn_native_v1",
+  "variant_meaning": "Native PQ without navigation",
+  "build": {
+    "background_indexes": [],
+    "protected_backgrounds": [],
+    "transparent": [],
+    "sd_notice_export_index": null,
+    "copies": {
+      "global": {},
+      "personal": {}
+    },
+    "display_prefixes": {
+      "global": "[CN_Dots]-",
+      "personal": "[CN_Dots]-"
+    },
+    "combination": "VW_PQ_ORIGINAL_CN_SKIN1_V1_1",
+    "particle_multiplier": 1.0,
+    "input_images_policy": "Preserve every existing MCF payload, including SD notice; append CN particle images only"
+  },
+  "protected_target_slots": [],
+  "target_recipes": {
+    "skin4": {
+      "assets": "dots/skin4",
+      "extra_files": [
+        "ambienceColorMap.res"
+      ],
+      "combination": "VW_PQ_CN_ICONS_GOLD_V2"
+    }
+  }
+}

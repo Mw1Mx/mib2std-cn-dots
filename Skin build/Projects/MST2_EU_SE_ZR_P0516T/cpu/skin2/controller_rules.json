@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "firmware": "MST2_EU_SE_ZR_P0516T",
+  "variant": "cpu",
+  "source_skin": "skin2",
+  "rule": "ecotrainer_cover_visibility_v1",
+  "asset": "dots/viewhandler.zip",
+  "entry": "Ctt.jxe",
+  "widget": "IMAGE_TO_HIDE_CAR",
+  "property": "visible",
+  "value": false,
+  "before_sha256": "3657e42c4e329be0948544f218bb13e6fb832d43d815d395e6430509dc255a93",
+  "after_sha256": "5fe7d1b5960060dbed1f6f0f152d54c87313b55a518ba856b8b766529019a292",
+  "shared_bitmap_preserved": "img_2086 / MCF 2087 / logical image 69",
+  "sd_notice_preserved": "img_2074 / MCF 2075 / logical image 119",
+  "scope": "Resolved SOURCE profile, independent of destination slot"
+}

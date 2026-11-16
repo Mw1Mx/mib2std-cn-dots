@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "revision": "settings_default_particles_v1",
+  "firmware": "MST2_EU_SE_ZR_P0516T",
+  "variant": "cpu",
+  "source_skin": "skin2",
+  "scope": "SOURCE profile, independent of destination slot; particles only, no screen rotation",
+  "required_pair": [
+    "dots/viewhandler.zip",
+    "installer/configuration.res"
+  ],
+  "controller": {
+    "entry": "Pb.jxe",
+    "method": "RunSelectScript_SelectParameterSetScript",
+    "native_default_indices": [
+      80,
+      81
+    ],
+    "blank_entry_fallback_preserved": true,
+    "before_sha256": "5fe7d1b5960060dbed1f6f0f152d54c87313b55a518ba856b8b766529019a292",
+    "after_sha256": "2105a4db03e697ce3104c6c80955a5281bf134b5aa07c5ac2fdf5fb4bf930f19"
+  },
+  "configuration": {
+    "object": 27,
+    "settings_views": 126,
+    "changed_full_and_short_keys": 252,
+    "target_profile": "Default",
+    "native_default_alpha": 0,
+    "before_sha256": "e6a73b0c61f945cfc81c4431ada136c3ea0f6c94d125d751fbb1ce372576b580",
+    "after_sha256": "0929420a7096705838883c6c9e8d147685d41ee2dc14a8857be69b0fd3f1c6ea"
+  },
+  "preserved": [
+    "EcoTrainer Ctt IMAGE_TO_HIDE_CAR invisible",
+    "original SD notice",
+    "B1 visual rules",
+    "source-specific image-copy rules",
+    "particle maps +15",
+    "particle easing and other menu profiles",
+    "original source resources and backups"
+  ],
+  "compatibility": "Installer accepts the exact preceding dynamic configuration; preserves the original cycle baseline"
+}

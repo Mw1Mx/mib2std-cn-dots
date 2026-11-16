@@ -1,0 +1,29 @@
+#Wed, 25 Mar 2020 16:53:38 +0100
+#SkinEditor: DEVELOPMENT/H29.319.120 (smurfette)
+#Wed Mar 25 16:53:07 CET 2020
+layout.direction=LEFT_TO_RIGHT
+SkinShortVersion=STD_VW_PQ_Skin_Radio-SL5HCQ
+DefaultMenuMode=FlowList
+SkinBuildHmiSoftwareVersion=BH29.319.120-202003251528
+Layout.CarLife.Canvas_Dimension.height=480
+SdsLanguageHash=H29.319.120
+Layout.AndroidAuto.Canvas_Dimension.width=800
+skin.modname=VW_MOS_Skin_Core
+Layout.CarLife.Canvas_Dimension.width=800
+skin.name=STD_VW_PQ_Skin_Radio
+Layout.AndroidAuto.Canvas_Dimension.height=480
+SkinSkinFileVersion=STD_VW_PQ_Skin_Radio_42
+SpfName=VW_STD_PQ_Skin_Radio.spf
+SupportedLanguages=en_DE,de_DE,en_GB,fr_FR,it_IT,es_ES,cs_CZ,nl_NL,pt_PT,ru_RU,sv_SE,tr_TR,pl_PL,no_NO,en_US,pt_BR,es_MX,ja_JP,ko_KR,fr_CA,zh_CN,zh_TW,zh_HK,zh_MO,da_DK,el_GR,hr_HR,hu_HU,fi_FI,bs_BA,ro_RO,sk_SK,sl_SI,sr_RS,bg_BG,lv_LV,et_EE,lt_LT,uk_UA,en_SA
+Layout.Mirrorlink.Canvas_Dimension.width=800
+SkinVersion=BH29.319.120-202003251528-MS29.319.27-LSEV-STD_VW_PQ_Skin_Radio_42
+Layout.Mirrorlink.Canvas_Dimension.height=480
+SkinBrand=2
+Layout.Carplay.Canvas_Dimension.height=480
+TranslationDate=VWTexte_88.26.0_H29.319.112
+UserSwitchableMenuMode=true
+skin.displayname=VW_STD_PQ_Skin_Radio
+Layout.Carplay.Canvas_Dimension.width=800
+internal.skin.name=STD_PQ_Skin_Radio
+SkinSkinModelVersion=MS29.319.27
+SkinSEVersion=LSEV

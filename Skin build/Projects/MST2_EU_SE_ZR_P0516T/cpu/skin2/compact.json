@@ -1,0 +1,230 @@
+{
+  "schema": 2,
+  "objects": [
+    {
+      "sha256": "4f5646e1ee19da0c86cd0b8650ea98c5eb0deacd92ea9cb14e1944b0aaf4772b",
+      "size": 13239302,
+      "paths": [
+        "dots/images.mcf"
+      ]
+    },
+    {
+      "sha256": "a9e2179f2e0934a94e4abd1a4fcfa1c18cc618de85b9949290afd1cee4022edc",
+      "size": 213520,
+      "paths": [
+        "dots/images.res",
+        "installer/status_refs/cn/images.res"
+      ]
+    },
+    {
+      "sha256": "036731c0aa3f44990c33db851e5490ad357ea909cd8816c0369b9efac6ffea56",
+      "size": 702915,
+      "paths": [
+        "dots/skinanim.res",
+        "installer/status_refs/cn/view/skinanim.res"
+      ]
+    },
+    {
+      "sha256": "878ca1804a13b1f4c464d4550c7a3dbbd14719d4be5feb96fe125aee0ba0eb61",
+      "size": 11329160,
+      "paths": [
+        "dots/viewhandler.zip",
+        "installer/status_refs/cn/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "e6a73b0c61f945cfc81c4431ada136c3ea0f6c94d125d751fbb1ce372576b580",
+      "size": 239920,
+      "paths": [
+        "installer/allowed/dynamic.res",
+        "installer/allowed/dynamic_pre_settings.res"
+      ]
+    },
+    {
+      "sha256": "0929420a7096705838883c6c9e8d147685d41ee2dc14a8857be69b0fd3f1c6ea",
+      "size": 238408,
+      "paths": [
+        "installer/allowed/dynamic_pre_ecotrainer.res"
+      ]
+    },
+    {
+      "sha256": "c0e732a3e322b7be48621082e397e793120536ee4af9ba83fc3338b76844ef55",
+      "size": 238360,
+      "paths": [
+        "installer/allowed/dynamic_pre_submenus.res"
+      ]
+    },
+    {
+      "sha256": "9ba2785517134795f4c91b49925009e26584dfc26c8ae58e6b943aaee3d1f928",
+      "size": 78254,
+      "paths": [
+        "installer/allowed/enabled.res"
+      ]
+    },
+    {
+      "sha256": "35f6240086d01006403e02c89846d5cec5583c2366c9772aa133b6c98e80069b",
+      "size": 78254,
+      "paths": [
+        "installer/allowed/stock.res"
+      ]
+    },
+    {
+      "sha256": "5040f1d7f216e169fd8bdc916f3f59293ff48d159d80d44746279851cac2b5b7",
+      "size": 237508,
+      "paths": [
+        "installer/configuration.res"
+      ]
+    },
+    {
+      "sha256": "a9926891b4dbc6e4b427486b92b34c2abf20ba284ab2a9e9ddea7442d9fb159b",
+      "size": 22435580,
+      "paths": [
+        "installer/runtime.ifs"
+      ]
+    },
+    {
+      "sha256": "eddd40f5852ec1ba8074d1b1494e1a7ec76e8bf7bbb86a37c6f9e26928f13ccd",
+      "size": 212824,
+      "paths": [
+        "installer/status_refs/cn_skin4/images.res"
+      ]
+    },
+    {
+      "sha256": "07d8d2ac1adf13e0fa9e4417c1e177ce145736798bf3bff7b8d6cd5bf0184d3c",
+      "size": 702761,
+      "paths": [
+        "installer/status_refs/cn_skin4/view/skinanim.res"
+      ]
+    },
+    {
+      "sha256": "2ddff372e0c5eda253cbe1629b0217a4a0d9fb818a53832c6c8f2dabe7c0cbbd",
+      "size": 11334407,
+      "paths": [
+        "installer/status_refs/cn_skin4/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "0fdf46c474ccd96e5eabd41553328632d36d5cb7d1a4e20b83a5024b58b23e9d",
+      "size": 306112,
+      "paths": [
+        "installer/status_refs/common/imageidmap.res"
+      ]
+    },
+    {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "paths": [
+        "installer/status_refs/placeholder"
+      ]
+    },
+    {
+      "sha256": "991a7b272a5dfaf921d4ced2993572b2f3ae5f0faa18778106ce7e147a89d4a4",
+      "size": 201824,
+      "paths": [
+        "installer/status_refs/stock1/images.res"
+      ]
+    },
+    {
+      "sha256": "4a07c0baf9bcb027be058f0ffa31cfc9793e9cdf7a699a71ea41c3da647985a9",
+      "size": 697289,
+      "paths": [
+        "installer/status_refs/stock1/view/skinanim.res",
+        "installer/status_refs/stock2/view/skinanim.res",
+        "original/view/skinanim.res"
+      ]
+    },
+    {
+      "sha256": "94a9e2740e4f0d413e86ad8b021431f0e5b664e1fb8a66749a6468b4e3f348a6",
+      "size": 11326805,
+      "paths": [
+        "installer/status_refs/stock1/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "9075ff8fbfa28db28d68df9b570ac6110ac3d7268066893cdb593469ede09f09",
+      "size": 201920,
+      "paths": [
+        "installer/status_refs/stock2/images.res",
+        "original/images.res"
+      ]
+    },
+    {
+      "sha256": "8b4d8b529f2da067bf9b3bcc5f4eaa1ff9ae106739f24dd78e12cd09de4df8fa",
+      "size": 11327022,
+      "paths": [
+        "installer/status_refs/stock2/viewhandler.zip",
+        "original/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "eb22c06e4dd98573897c2fe45298d17b7bfbc3e981115250429df50def8c9295",
+      "size": 202352,
+      "paths": [
+        "installer/status_refs/stock3/images.res"
+      ]
+    },
+    {
+      "sha256": "98c6ba8ac40f44df8cf5b9d0b05114f7330bad350c1a7fe1d171771887b8a541",
+      "size": 697144,
+      "paths": [
+        "installer/status_refs/stock3/view/skinanim.res"
+      ]
+    },
+    {
+      "sha256": "66fc7aa4399372e46cebf71d396f4f635025c3e238a20accd2e12f2744ff7688",
+      "size": 11331228,
+      "paths": [
+        "installer/status_refs/stock3/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "c7498ac16915de10794e294ac93cd27e11ff84ec5ff91b7210e704aba0d459f1",
+      "size": 201064,
+      "paths": [
+        "installer/status_refs/stock4/images.res"
+      ]
+    },
+    {
+      "sha256": "3173bdb58a7e21f1be7746003020fd04201750ae398e9b6d05d1fe2ffbbf44a4",
+      "size": 697135,
+      "paths": [
+        "installer/status_refs/stock4/view/skinanim.res"
+      ]
+    },
+    {
+      "sha256": "37f609e8b5eab8a24bb2b923c5a0ed8803886c9a36ae07b656fca0f09a40bbef",
+      "size": 11332251,
+      "paths": [
+        "installer/status_refs/stock4/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "2d614e6a08acf2adfac6a0833e36712402475cd257240865fe81e751eacd63e7",
+      "size": 200712,
+      "paths": [
+        "installer/status_refs/stock5/images.res"
+      ]
+    },
+    {
+      "sha256": "047dea9f9d28d739b651f6461f5ec719e2c19e0e907cae485c26d30aa51f0e1c",
+      "size": 698210,
+      "paths": [
+        "installer/status_refs/stock5/view/skinanim.res"
+      ]
+    },
+    {
+      "sha256": "c7643f50b7ef025d6327b780f06c8b4a05cd04177ede98dc34b698eadb42ce0d",
+      "size": 11337250,
+      "paths": [
+        "installer/status_refs/stock5/viewhandler.zip"
+      ]
+    },
+    {
+      "sha256": "182b636a9469160639c850aece73edc090855c01e8d0bedf63f7960ec893e153",
+      "size": 12986756,
+      "paths": [
+        "original/images.mcf"
+      ]
+    }
+  ]
+}

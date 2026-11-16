@@ -1,0 +1,806 @@
+{
+  "groups": {
+    "Phone": [
+      "PHONE_CONTACTS",
+      "PHONE_CALLSTACKS",
+      "PHONE_MAIN_DIAL__EU",
+      "PHONE_CONTACTS_JUST_SELECT_NUMBER",
+      "PHONE_CONTACTS_SEARCH__EU",
+      "PHONE_CONTACTS_SEARCH_JUST_SELECT_NUMBER__EU",
+      "PHONE_CONTACT_DETAILS",
+      "PHONE_CALL_INFO"
+    ],
+    "Media selection": [
+      "MEDIA_AUX_DVD_BROWSER",
+      "MEDIA_BT_AUDIO_BROWSER",
+      "MEDIA_CD_DA_BROWSER",
+      "MEDIA_COMPRESSED_AUDIO_BROWSER",
+      "MEDIA_JUKEBOX_BROWSER",
+      "MEDIA_PARTITIONS_BROWSER",
+      "MEDIA_SOURCES_BROWSER"
+    ],
+    "Radio stations": [
+      "TUNER_AM_LIST_MAIN",
+      "TUNER_AM_LIST_STORE",
+      "TUNER_FM_LIST_MAIN",
+      "TUNER_FM_LIST_STORE",
+      "TUNER_DAB_HIERARCHICAL_LIST",
+      "TUNER_DAB_LIST_STORE"
+    ],
+    "Full Link information": [
+      "SMI_INFO"
+    ],
+    "Vehicle messages": [
+      "CAR_MAIN_FZGSTATUS_MESSAGELIST"
+    ],
+    "Navigation destinations": [
+      "NAV_NEW_DEST_ADR",
+      "NAV_NEW_DEST_DETAIL",
+      "NAV_DEST_MEM_CONTACTS",
+      "NAV_DEST_MEM_DESTINATION",
+      "NAV_DEST_MEM_DETAIL_FLAGDEST",
+      "NAV_DEST_MEM_DETAIL_VALID",
+      "NAV_DEST_MEM_EDIT_DETAIL",
+      "NAV_DEST_MEM_GPSPIC_DETAIL_MAP",
+      "NAV_DEST_MEM_LAST",
+      "NAV_DEST_MEM_ONLINE_DESTINATIONS",
+      "NAV_DEST_MEM_SAVE_NEW_Q_SPELLER",
+      "NAV_DEST_MEM_SEARCH_LIST",
+      "NAV_DEST_MEM_SEARCH_Q_SPELLER",
+      "NAV_DEST_MEM_TOPDEST"
+    ],
+    "Service mode": [
+      "SERVICEMODE_FEC",
+      "SERVICEMODE_FEC_DETAIL_INSTALLED",
+      "SERVICEMODE_FEC_INSTALLED",
+      "SERVICEMODE_MAIN"
+    ],
+    "Test mode including GEM": [
+      "TESTMODE_ASL_PLAYGROUND",
+      "TESTMODE_COLOR_PRESENTATION",
+      "TESTMODE_DIAG_DATA",
+      "TESTMODE_FEATURE_CONSTS",
+      "TESTMODE_FEATURE_FLAGS",
+      "TESTMODE_FEC_INSTALLED",
+      "TESTMODE_FONT_TEST1",
+      "TESTMODE_FONT_TEST2",
+      "TESTMODE_FONT_TEST3",
+      "TESTMODE_FONT_TEST4",
+      "TESTMODE_FONT_TEST_SKODA",
+      "TESTMODE_FONT_TEST_SKODA_2",
+      "TESTMODE_GEM",
+      "TESTMODE_HMI_DEBUG",
+      "TESTMODE_HMI_SKIN_STYLE",
+      "TESTMODE_HWR",
+      "TESTMODE_LANGUAGE_CODINGS",
+      "TESTMODE_MAIN",
+      "TESTMODE_PERSONALIZATION_LIST",
+      "TESTMODE_PROXIMITY_TEST",
+      "TESTMODE_SKINNING_MAIN",
+      "TESTMODE_SWDL_MENUE",
+      "TESTMODE_TOUCHSCREEN_TEST",
+      "TESTMODE_TRACES",
+      "TESTMODE_TRACES_HMI",
+      "TESTMODE_TRACES_HMI_SUB",
+      "TESTMODE_TRACES_OPTIONS",
+      "TESTMODE_TRACES_SYSTEM",
+      "TESTMODE_UNIFIED_SPELLER",
+      "TESTMODE_VERSIONS_HMI"
+    ]
+  },
+  "changes": [
+    {
+      "key": "CAR_MAIN_FZGSTATUS_MESSAGELIST;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "Cmfm;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "MEDIA_AUX_DVD_BROWSER;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "Madb;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "MEDIA_BT_AUDIO_BROWSER;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "Mbab;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "MEDIA_CD_DA_BROWSER;0",
+      "before": "MainMenu05",
+      "after": "Default"
+    },
+    {
+      "key": "Mcdb;0",
+      "before": "MainMenu05",
+      "after": "Default"
+    },
+    {
+      "key": "MEDIA_COMPRESSED_AUDIO_BROWSER;0",
+      "before": "MainMenu07",
+      "after": "Default"
+    },
+    {
+      "key": "Mcab;0",
+      "before": "MainMenu07",
+      "after": "Default"
+    },
+    {
+      "key": "MEDIA_JUKEBOX_BROWSER;0",
+      "before": "MainMenu10",
+      "after": "Default"
+    },
+    {
+      "key": "Mjb;0",
+      "before": "MainMenu10",
+      "after": "Default"
+    },
+    {
+      "key": "MEDIA_PARTITIONS_BROWSER;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "Mpb;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "MEDIA_SOURCES_BROWSER;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "Msb;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_CONTACTS;0",
+      "before": "MainMenu04",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmc;0",
+      "before": "MainMenu04",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_DESTINATION;0",
+      "before": "MainMenu05",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmd;0",
+      "before": "MainMenu05",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_DETAIL_FLAGDEST;0",
+      "before": "MainMenu06",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmdf;0",
+      "before": "MainMenu06",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_DETAIL_VALID;0",
+      "before": "MainMenu07",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmdv;0",
+      "before": "MainMenu07",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_EDIT_DETAIL;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmed;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_GPSPIC_DETAIL_MAP;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmgdm;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_LAST;0",
+      "before": "MainMenu10",
+      "after": "Default"
+    },
+    {
+      "key": "Ndml;0",
+      "before": "MainMenu10",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_ONLINE_DESTINATIONS;0",
+      "before": "MainMenu11",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmod;0",
+      "before": "MainMenu11",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_SAVE_NEW_Q_SPELLER;0",
+      "before": "MainMenu12",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmsnqs;0",
+      "before": "MainMenu12",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_SEARCH_LIST;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmsl;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_SEARCH_Q_SPELLER;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmsqs;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_DEST_MEM_TOPDEST;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "Ndmt;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_NEW_DEST_ADR;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "Nnda;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "NAV_NEW_DEST_DETAIL;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "Nndd;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "PHONE_CALLSTACKS;0",
+      "before": "MainMenu12",
+      "after": "Default"
+    },
+    {
+      "key": "Pc_CB02;0",
+      "before": "MainMenu12",
+      "after": "Default"
+    },
+    {
+      "key": "PHONE_CALL_INFO;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "Pci;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "PHONE_CONTACTS;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "Pc_0D31;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "PHONE_CONTACTS_JUST_SELECT_NUMBER;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "Pcjsn_D13A;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "PHONE_CONTACTS_SEARCH_JUST_SELECT_NUMBER__EU;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "Pcsjsne;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "PHONE_CONTACTS_SEARCH__EU;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "Pcse;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "PHONE_CONTACT_DETAILS;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "Pcd;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "PHONE_MAIN_DIAL__EU;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "Pmde;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "SMI_INFO;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "Si;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "TUNER_AM_LIST_MAIN;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "Talm;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "TUNER_AM_LIST_STORE;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "Tals;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "TUNER_DAB_HIERARCHICAL_LIST;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "Tdhl;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "TUNER_DAB_LIST_STORE;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "Tdls;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "TUNER_FM_LIST_MAIN;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "Tflm;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "TUNER_FM_LIST_STORE;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "Tfls;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "SERVICEMODE_FEC;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "Sf;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "SERVICEMODE_FEC_DETAIL_INSTALLED;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "Sfdi;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "SERVICEMODE_FEC_INSTALLED;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "Sfi;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "SERVICEMODE_MAIN;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "Sm_3832;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_ASL_PLAYGROUND;0",
+      "before": "MainMenu11",
+      "after": "Default"
+    },
+    {
+      "key": "Tap;0",
+      "before": "MainMenu11",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_COLOR_PRESENTATION;0",
+      "before": "MainMenu12",
+      "after": "Default"
+    },
+    {
+      "key": "Tcp;0",
+      "before": "MainMenu12",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_DIAG_DATA;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "Tdd;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FEATURE_CONSTS;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "Tfc;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FEATURE_FLAGS;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "Tff;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FEC_INSTALLED;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "Tfi;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FONT_TEST1;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "Tft_0715;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FONT_TEST2;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "Tft_6EC7;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FONT_TEST3;0",
+      "before": "MainMenu04",
+      "after": "Default"
+    },
+    {
+      "key": "Tft_A625;0",
+      "before": "MainMenu04",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FONT_TEST4;0",
+      "before": "MainMenu05",
+      "after": "Default"
+    },
+    {
+      "key": "Tft_340F;0",
+      "before": "MainMenu05",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FONT_TEST_SKODA;0",
+      "before": "MainMenu06",
+      "after": "Default"
+    },
+    {
+      "key": "Tfts;0",
+      "before": "MainMenu06",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_FONT_TEST_SKODA_2;0",
+      "before": "MainMenu07",
+      "after": "Default"
+    },
+    {
+      "key": "Tfts2;0",
+      "before": "MainMenu07",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_GEM;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "Tg;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_HMI_DEBUG;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "Thd;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_HMI_SKIN_STYLE;0",
+      "before": "MainMenu10",
+      "after": "Default"
+    },
+    {
+      "key": "Thss;0",
+      "before": "MainMenu10",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_HWR;0",
+      "before": "MainMenu11",
+      "after": "Default"
+    },
+    {
+      "key": "Th;0",
+      "before": "MainMenu11",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_LANGUAGE_CODINGS;0",
+      "before": "MainMenu12",
+      "after": "Default"
+    },
+    {
+      "key": "Tlc;0",
+      "before": "MainMenu12",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_MAIN;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "Tm_0E5E;0",
+      "before": "MainMenu13",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_PERSONALIZATION_LIST;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "Tpl_5577;0",
+      "before": "MainMenu14",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_PROXIMITY_TEST;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "Tpt_9425;0",
+      "before": "MainMenu15",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_SKINNING_MAIN;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "Tsm_9B74;0",
+      "before": "MainMenu01",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_SWDL_MENUE;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "Tsm_B4D2;0",
+      "before": "MainMenu02",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_TOUCHSCREEN_TEST;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "Ttt;0",
+      "before": "MainMenu03",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_TRACES;0",
+      "before": "MainMenu04",
+      "after": "Default"
+    },
+    {
+      "key": "Tt;0",
+      "before": "MainMenu04",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_TRACES_HMI;0",
+      "before": "MainMenu05",
+      "after": "Default"
+    },
+    {
+      "key": "Tth;0",
+      "before": "MainMenu05",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_TRACES_HMI_SUB;0",
+      "before": "MainMenu06",
+      "after": "Default"
+    },
+    {
+      "key": "Tths;0",
+      "before": "MainMenu06",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_TRACES_OPTIONS;0",
+      "before": "MainMenu07",
+      "after": "Default"
+    },
+    {
+      "key": "Tto;0",
+      "before": "MainMenu07",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_TRACES_SYSTEM;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "Tts;0",
+      "before": "MainMenu08",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_UNIFIED_SPELLER;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "Tus_0A1E;0",
+      "before": "MainMenu09",
+      "after": "Default"
+    },
+    {
+      "key": "TESTMODE_VERSIONS_HMI;0",
+      "before": "MainMenu10",
+      "after": "Default"
+    },
+    {
+      "key": "Tvh;0",
+      "before": "MainMenu10",
+      "after": "Default"
+    }
+  ],
+  "revision": "submenus_service_default_v2",
+  "configuration_sha256": "5040f1d7f216e169fd8bdc916f3f59293ff48d159d80d44746279851cac2b5b7",
+  "scope": "Shared configuration; native source-specific images/controllers/fades unchanged"
+}

@@ -1,0 +1,29 @@
+#Fri, 01 Feb 2019 15:24:01 +0100
+#SkinEditor: DEVELOPMENT/H29.319.93 (smurfette)
+#Fri Feb 01 15:23:17 CET 2019
+layout.direction=LEFT_TO_RIGHT
+SkinShortVersion=HIGH_VW_Skin_RADIO-39A9ACY
+DefaultMenuMode=Grid
+SkinBuildHmiSoftwareVersion=BH29.319.93-201902011404
+Layout.CarLife.Canvas_Dimension.height=480
+SdsLanguageHash=H29.319.93
+Layout.AndroidAuto.Canvas_Dimension.width=800
+skin.modname=VW_MOS_Skin_Core
+Layout.CarLife.Canvas_Dimension.width=800
+skin.name=HIGH_VW_Skin_RADIO
+Layout.AndroidAuto.Canvas_Dimension.height=480
+SkinSkinFileVersion=HIGH_VW_Skin_RADIO_42
+SpfName=VW_HIGH_Skin_RADIO.spf
+SupportedLanguages=en_DE,de_DE,en_GB,fr_FR,it_IT,es_ES,cs_CZ,nl_NL,pt_PT,ru_RU,sv_SE,tr_TR,pl_PL,no_NO,en_US,pt_BR,es_MX,ja_JP,ko_KR,fr_CA,zh_CN,zh_TW,zh_HK,zh_MO,da_DK,el_GR,hr_HR,hu_HU,fi_FI,bs_BA,ro_RO,sk_SK,sl_SI,sr_RS,bg_BG,lv_LV,et_EE,lt_LT,uk_UA,en_SA
+Layout.Mirrorlink.Canvas_Dimension.width=800
+SkinVersion=BH29.319.93-201902011404-MS29.319.18-LSEV-HIGH_VW_Skin_RADIO_42
+Layout.Mirrorlink.Canvas_Dimension.height=480
+SkinBrand=2
+Layout.Carplay.Canvas_Dimension.height=480
+TranslationDate=VWTexte_88.21.5_H29.315.4
+UserSwitchableMenuMode=false
+skin.displayname=VW_STD8_Skin_RADIO
+Layout.Carplay.Canvas_Dimension.width=800
+internal.skin.name=HIGH_Skin_RADIO
+SkinSkinModelVersion=MS29.319.18
+SkinSEVersion=LSEV

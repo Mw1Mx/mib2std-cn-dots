@@ -1,0 +1,134 @@
+{
+  "schema": 1,
+  "revision": "ecotrainer_sky_fade_v1",
+  "validation": {
+    "source": "skin2",
+    "before_sha256": "f7197c16e4d2ce4e2c220c77f4d7159cefc8d13d76bab0104a0c177b1e3b6fe2",
+    "after_sha256": "036731c0aa3f44990c33db851e5490ad357ea909cd8816c0369b9efac6ffea56",
+    "added_sky_properties": [
+      {
+        "direction": "enter",
+        "slot": 0,
+        "time": 0,
+        "metric": 121,
+        "curve": [
+          0,
+          0,
+          0,
+          1,
+          1250,
+          0,
+          0
+        ]
+      },
+      {
+        "direction": "enter",
+        "slot": 0,
+        "time": 1250,
+        "metric": 215,
+        "curve": [
+          0,
+          255,
+          0,
+          1,
+          500,
+          0,
+          0
+        ]
+      },
+      {
+        "direction": "enter",
+        "slot": 1,
+        "time": 0,
+        "metric": 145,
+        "curve": [
+          0,
+          0,
+          0,
+          1,
+          600,
+          0,
+          0
+        ]
+      },
+      {
+        "direction": "enter",
+        "slot": 1,
+        "time": 600,
+        "metric": 212,
+        "curve": [
+          0,
+          255,
+          0,
+          1,
+          400,
+          0,
+          0
+        ]
+      },
+      {
+        "direction": "enter",
+        "slot": 2,
+        "time": 0,
+        "metric": 353,
+        "curve": [
+          255,
+          255,
+          0,
+          1,
+          500,
+          0,
+          0
+        ]
+      },
+      {
+        "direction": "enter",
+        "slot": 3,
+        "time": 0,
+        "metric": 341,
+        "curve": [
+          255,
+          255,
+          0,
+          1,
+          256,
+          0,
+          0
+        ]
+      },
+      {
+        "direction": "leave",
+        "slot": 1,
+        "time": 0,
+        "metric": 319,
+        "curve": [
+          255,
+          0,
+          0,
+          1,
+          600,
+          0,
+          0
+        ]
+      },
+      {
+        "direction": "leave",
+        "slot": 1,
+        "time": 600,
+        "metric": 131,
+        "curve": [
+          0,
+          0,
+          0,
+          1,
+          400,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "scope": "Ctt / StaticImage_Sky opacity only; existing content fades remain intact",
+  "sd_notice": "Original native SD notice preserved",
+  "shared_configuration": "EcoTrainer detail views use Default; main trip uses TB_Trainer"
+}

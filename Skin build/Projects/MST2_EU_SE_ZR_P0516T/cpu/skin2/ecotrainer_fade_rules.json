@@ -1,0 +1,148 @@
+{
+  "schema": 1,
+  "revision": "ecotrainer_content_fade_v1",
+  "firmware": "MST2_EU_SE_ZR_P0516T",
+  "variant": "cpu",
+  "source_skin": "skin2",
+  "scope": "EcoTrainer content only; resolved SOURCE profile, independent of destination slot",
+  "required_pair": [
+    "dots/viewhandler.zip",
+    "dots/skinanim.res"
+  ],
+  "controller_entry": "Ctt.jxe",
+  "view": "CAR_TBT_TRIP",
+  "preserved": [
+    "IMAGE_TO_HIDE_CAR visible=false",
+    "Settings Default particle behavior and Pb.jxe",
+    "particle maps +15 and all original animation indices",
+    "all images including the original SD notice",
+    "configurationmanager.res",
+    "source-specific image rules",
+    "original source files and backups"
+  ],
+  "validation": {
+    "passed": true,
+    "array_mapping": {
+      "927": 2052,
+      "926": 2053
+    },
+    "alpha_edits": [
+      {
+        "direction": "enter",
+        "slot": 0,
+        "time_ms": 1250,
+        "source_keyframe": 6645,
+        "changed_refs": {
+          "516651519": 215,
+          "1387507018": 215,
+          "-1641956180": 215,
+          "1021463062": 215
+        }
+      },
+      {
+        "direction": "enter",
+        "slot": 1,
+        "time_ms": 0,
+        "source_keyframe": 1883,
+        "changed_refs": {
+          "516651519": 145,
+          "1387507018": 145,
+          "-1641956180": 145,
+          "1021463062": 145
+        }
+      },
+      {
+        "direction": "enter",
+        "slot": 1,
+        "time_ms": 600,
+        "source_keyframe": 12603,
+        "changed_refs": {
+          "516651519": 212,
+          "1387507018": 212,
+          "-1641956180": 212,
+          "1021463062": 212
+        }
+      },
+      {
+        "direction": "enter",
+        "slot": 3,
+        "time_ms": 0,
+        "source_keyframe": 133,
+        "changed_refs": {
+          "-1087656453": 462
+        }
+      },
+      {
+        "direction": "leave",
+        "slot": 0,
+        "time_ms": 0,
+        "source_keyframe": 2915,
+        "changed_refs": {
+          "516651519": 309,
+          "1387507018": 309,
+          "-1641956180": 309,
+          "1021463062": 309,
+          "749807514": 309,
+          "-1663589089": 309,
+          "1014483402": 309,
+          "820299767": 309,
+          "1134847275": 309
+        }
+      },
+      {
+        "direction": "leave",
+        "slot": 1,
+        "time_ms": 0,
+        "source_keyframe": 2914,
+        "changed_refs": {
+          "516651519": 319,
+          "1387507018": 319,
+          "-1641956180": 319,
+          "1021463062": 319
+        }
+      },
+      {
+        "direction": "leave",
+        "slot": 1,
+        "time_ms": 600,
+        "source_keyframe": 12601,
+        "changed_refs": {
+          "516651519": 131,
+          "1387507018": 131,
+          "-1641956180": 131,
+          "1021463062": 131
+        }
+      },
+      {
+        "direction": "leave",
+        "slot": 2,
+        "time_ms": 0,
+        "source_keyframe": 131,
+        "changed_refs": {
+          "-1087656453": 317
+        }
+      }
+    ],
+    "native_changes": [
+      [
+        "initWidgets",
+        [
+          41,
+          42,
+          62,
+          63
+        ]
+      ]
+    ],
+    "before": {
+      "viewhandler.zip": "2105a4db03e697ce3104c6c80955a5281bf134b5aa07c5ac2fdf5fb4bf930f19",
+      "skinanim.res": "7a351868f905b9b0cf3b35885436dff505cc0dc1bf5b781162b97a151bebc3df"
+    },
+    "after": {
+      "viewhandler.zip": "878ca1804a13b1f4c464d4550c7a3dbbd14719d4be5feb96fe125aee0ba0eb61",
+      "skinanim.res": "f7197c16e4d2ce4e2c220c77f4d7159cefc8d13d76bab0104a0c177b1e3b6fe2"
+    },
+    "original_resource_indices_preserved": true,
+    "original_controller_entries_preserved_except_Ctt": true
+  }
+}

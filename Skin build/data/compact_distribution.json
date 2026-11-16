@@ -1,0 +1,759 @@
+{
+  "schema": 2,
+  "profiles": [
+    "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2",
+    "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4",
+    "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1",
+    "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1",
+    "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5"
+  ],
+  "runtime_profile": "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2",
+  "shared_pack": {
+    "path": "Projects/resources.pack.xz",
+    "sha256": "0dd0d67a88f4a89d3b9a94fdb59c2ad846fa1884bd896529e023817035414402",
+    "objects": [
+      {
+        "sha256": "6278eb7354cb45cdbf330a7a4d750ff0b746a6f450dcad3f97d82b7d1211f7d8",
+        "size": 498,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/skin4/ambienceColorMap.res"
+        ]
+      },
+      {
+        "sha256": "8744f2542388ac7f2bb9d3f31daa4324ff2cd4d841f685ef857b6dc1afd34db0",
+        "size": 498,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/original/ambienceColorMap.res"
+        ]
+      },
+      {
+        "sha256": "a0c5d5b5744ff40743dd80287b5d67babedf92f5a7b451cbd9cf1928d5cabe77",
+        "size": 266,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/original/ambienceColorMap.res"
+        ]
+      },
+      {
+        "sha256": "a1e3853db56c7cc5e3a3e32ca09960de15b8e2c68ac4769a2223c68af301d7cf",
+        "size": 498,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/original/ambienceColorMap.res"
+        ]
+      },
+      {
+        "sha256": "ab1eb1cd8fae7cbbc9c0bb9cec769b4971ad10ea03b55e4457a517688134b89c",
+        "size": 498,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/original/ambienceColorMap.res"
+        ]
+      },
+      {
+        "sha256": "1174480446945d1f50e25347424316d4728b201ecf4e4bf3195a34ee1782b156",
+        "size": 67962,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/configuration.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/configuration.res"
+        ]
+      },
+      {
+        "sha256": "5040f1d7f216e169fd8bdc916f3f59293ff48d159d80d44746279851cac2b5b7",
+        "size": 237508,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/configuration.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/configuration.res"
+        ]
+      },
+      {
+        "sha256": "529340edb38f6be88c1cef4107ef6d97d9f735a60f3566c2f945a66cc538df90",
+        "size": 67766,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/configuration.res"
+        ]
+      },
+      {
+        "sha256": "e6a73b0c61f945cfc81c4431ada136c3ea0f6c94d125d751fbb1ce372576b580",
+        "size": 239920,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/allowed/dynamic.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/allowed/dynamic_pre_settings.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/allowed/dynamic.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/allowed/dynamic_pre_settings.res"
+        ]
+      },
+      {
+        "sha256": "0929420a7096705838883c6c9e8d147685d41ee2dc14a8857be69b0fd3f1c6ea",
+        "size": 238408,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/allowed/dynamic_pre_ecotrainer.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/allowed/dynamic_pre_ecotrainer.res"
+        ]
+      },
+      {
+        "sha256": "c0e732a3e322b7be48621082e397e793120536ee4af9ba83fc3338b76844ef55",
+        "size": 238360,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/allowed/dynamic_pre_submenus.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/allowed/dynamic_pre_submenus.res"
+        ]
+      },
+      {
+        "sha256": "9ba2785517134795f4c91b49925009e26584dfc26c8ae58e6b943aaee3d1f928",
+        "size": 78254,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/allowed/enabled.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/allowed/enabled.res"
+        ]
+      },
+      {
+        "sha256": "49792a33a291fff454088ab0b4c815daa8bc1803385a4fd90478e122e5797eaa",
+        "size": 23781,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/engine.sh"
+        ]
+      },
+      {
+        "sha256": "53502dcfdba018c5c80184ebbe41126f8aaf577022504f1016c6444a23408a21",
+        "size": 23565,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/engine.sh",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/engine.sh"
+        ]
+      },
+      {
+        "sha256": "0fdf46c474ccd96e5eabd41553328632d36d5cb7d1a4e20b83a5024b58b23e9d",
+        "size": 306112,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/common/imageidmap.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/common/imageidmap.res"
+        ]
+      },
+      {
+        "sha256": "3a126b5bbdcd49eb88b192eba11bb0178b481bda4fdaa47d64a723a11fb8b482",
+        "size": 143418,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/common/imageidmap.res"
+        ]
+      },
+      {
+        "sha256": "71e797f01643e87288686827e86ec4d0d68d6ae1c1e1b5dbc6d2eff6f4e6f83d",
+        "size": 519514,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/common/imageidmap.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/common/imageidmap.res"
+        ]
+      },
+      {
+        "sha256": "4f5646e1ee19da0c86cd0b8650ea98c5eb0deacd92ea9cb14e1944b0aaf4772b",
+        "size": 13239302,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/dots/images.mcf"
+        ]
+      },
+      {
+        "sha256": "50568b3c1e6ecc649dfea3331e928faccf8c7ef7b60e7b6827e3500ed7bb8b10",
+        "size": 13102308,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/images.mcf"
+        ]
+      },
+      {
+        "sha256": "69bc92307c9b6650e2ab129a13172dae7d83417ca22824f5e77371f1687c3b9a",
+        "size": 13275928,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/dots/images.mcf"
+        ]
+      },
+      {
+        "sha256": "c4286f7845be795ed1b41aaad6d7f094b419e74b4c8e4a474b8852059cc493c4",
+        "size": 13360988,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/dots/images.mcf"
+        ]
+      },
+      {
+        "sha256": "e57b04c755853b5577b1a5f8fee46ba82a74240540575ae968901a5c1453270a",
+        "size": 12924294,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/dots/images.mcf"
+        ]
+      },
+      {
+        "sha256": "8424265736740ea6e91c1d63254a4759fee1a7233175cf45ba969c53e766ffdc",
+        "size": 13920192,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/skin4/images.mcf"
+        ]
+      },
+      {
+        "sha256": "0e50ad7b64f30b80e913cd0381b02f0d542dbdb625bb6b8a50d33be2d9104b3b",
+        "size": 13001620,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/original/images.mcf"
+        ]
+      },
+      {
+        "sha256": "182b636a9469160639c850aece73edc090855c01e8d0bedf63f7960ec893e153",
+        "size": 12986756,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/original/images.mcf"
+        ]
+      },
+      {
+        "sha256": "59441f5e649567c064126e0b43ab9ceef23606fa2948ca0fa536cf4deff89d01",
+        "size": 12828000,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/original/images.mcf"
+        ]
+      },
+      {
+        "sha256": "7a8360a46e2b1d1b3ad9aa6050a1814a66ef7e9cacee7b502dcf390b5a857e0b",
+        "size": 12671748,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/original/images.mcf"
+        ]
+      },
+      {
+        "sha256": "95a6adc241e999f1c6c3bd5e14beaf61d6613cb0c18f889d66737d2bc3c90a6f",
+        "size": 13083608,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/original/images.mcf"
+        ]
+      },
+      {
+        "sha256": "4d2b33578b5d9d43a89871b3fb1e037956c1f3802d840ea9f9d8b79ed7254965",
+        "size": 200048,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/dots/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/cn_skin1/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/cn_skin1/images.res"
+        ]
+      },
+      {
+        "sha256": "a9e2179f2e0934a94e4abd1a4fcfa1c18cc618de85b9949290afd1cee4022edc",
+        "size": 213520,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/dots/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/cn/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/cn/images.res"
+        ]
+      },
+      {
+        "sha256": "c8e6d65ef137d88ccddde3818b1a16da2fcf3291b6df19a454cb59a9f66c54d6",
+        "size": 199680,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/images.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/cn_skin1/images.res"
+        ]
+      },
+      {
+        "sha256": "a7b6c9f802efe1becad4e6bd8cbffcfc6615edb2eb77f79d3ec025a93fb6c77f",
+        "size": 199680,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/skin4/images.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/cn_skin4/images.res"
+        ]
+      },
+      {
+        "sha256": "eddd40f5852ec1ba8074d1b1494e1a7ec76e8bf7bbb86a37c6f9e26928f13ccd",
+        "size": 212824,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/cn_skin4/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/dots/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/cn_skin4/images.res"
+        ]
+      },
+      {
+        "sha256": "3ad42b281fd6a1c8e1aa870b639e7d11fedcb6fd763e42aa5d9674de31c48c2b",
+        "size": 200080,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/cn_skin5/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/dots/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/cn_skin5/images.res"
+        ]
+      },
+      {
+        "sha256": "63d5d1babc3c780837e69ff50f85fa91c3137c1b444114cb3ece4a5866e6ac0b",
+        "size": 188448,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock1/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/original/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock1/images.res"
+        ]
+      },
+      {
+        "sha256": "6ed154e3673faa8c7263cbf4f9f32373418270bcfb993f41f46259ceb3474dcb",
+        "size": 188080,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/stock1/images.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/stock4/images.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/original/images.res"
+        ]
+      },
+      {
+        "sha256": "991a7b272a5dfaf921d4ced2993572b2f3ae5f0faa18778106ce7e147a89d4a4",
+        "size": 201824,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock1/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock1/images.res"
+        ]
+      },
+      {
+        "sha256": "9075ff8fbfa28db28d68df9b570ac6110ac3d7268066893cdb593469ede09f09",
+        "size": 201920,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock2/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/original/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock2/images.res"
+        ]
+      },
+      {
+        "sha256": "eb22c06e4dd98573897c2fe45298d17b7bfbc3e981115250429df50def8c9295",
+        "size": 202352,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock3/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock3/images.res"
+        ]
+      },
+      {
+        "sha256": "b6b0984b7c135e209211d8be95cc6d77118d832b7ab78a8894f8e74ce7bad56a",
+        "size": 188256,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock4/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock4/images.res"
+        ]
+      },
+      {
+        "sha256": "c7498ac16915de10794e294ac93cd27e11ff84ec5ff91b7210e704aba0d459f1",
+        "size": 201064,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock4/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock4/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/original/images.res"
+        ]
+      },
+      {
+        "sha256": "2d614e6a08acf2adfac6a0833e36712402475cd257240865fe81e751eacd63e7",
+        "size": 200712,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock5/images.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock5/images.res"
+        ]
+      },
+      {
+        "sha256": "bdcba69b355cc334cf4e90939c449416fc26a46b0f8d197369ac11918e26f546",
+        "size": 188480,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock5/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock5/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/original/images.res"
+        ]
+      },
+      {
+        "sha256": "7d2fa98ed831ec4148edcb503ee04ab45f669ccfb0c3f13723d4feeb41d8a0ec",
+        "size": 188480,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock6/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock6/images.res"
+        ]
+      },
+      {
+        "sha256": "0eb494c7b8ee3656cc7f0289aa9ac28b6c97662cb45df086b8a718ed6dc1279d",
+        "size": 188368,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock8/images.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock8/images.res"
+        ]
+      },
+      {
+        "sha256": "3dd42f551e22c56dd0155939a64e4ed75336c5382e77d9800e291d64efda13a7",
+        "size": 1350,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/dots/info.txt"
+        ]
+      },
+      {
+        "sha256": "5d060902f45d0e1375c158a862eb91eeb5adb5f48fdc78e602679ad417624236",
+        "size": 1375,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/info.txt"
+        ]
+      },
+      {
+        "sha256": "eb70b084c470a5ca76a891456ac5dc107e70b250fcacc513caba560a120815d3",
+        "size": 1353,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/dots/info.txt"
+        ]
+      },
+      {
+        "sha256": "9ffcaac9ca8be5345f1881f55b9d807d6646fb2168f421d1ad3d7edadb1076a1",
+        "size": 1368,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/skin4/info.txt"
+        ]
+      },
+      {
+        "sha256": "2c4fe6abebce43998af07cad028a543df8ef138650b02f8f906d67cae537d347",
+        "size": 19020,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/maintenance.sh"
+        ]
+      },
+      {
+        "sha256": "c3dfd848f643ad0a79ddcb6181ccb3862f86299d3efd37e7a3608252168366df",
+        "size": 18846,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/maintenance.sh",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/maintenance.sh"
+        ]
+      },
+      {
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/placeholder",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/placeholder",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/placeholder",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/placeholder",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/placeholder"
+        ]
+      },
+      {
+        "sha256": "05768aefd843bab34e08357f62a6d9b8c60d861b5f8ba7444c14959a99ef3c7c",
+        "size": 22253376,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/runtime.ifs"
+        ]
+      },
+      {
+        "sha256": "6728c3a714f3fd3f40add64f1ca0d3ba78a86834951fc1f755db83ce724fb1ac",
+        "size": 22253300,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/runtime.ifs",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/runtime.ifs"
+        ]
+      },
+      {
+        "sha256": "a9926891b4dbc6e4b427486b92b34c2abf20ba284ab2a9e9ddea7442d9fb159b",
+        "size": 22435580,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/runtime.ifs",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/runtime.ifs"
+        ]
+      },
+      {
+        "sha256": "4963824b873746c4438b0dbfd7261874826b990c2c45d389027f018e37182705",
+        "size": 269698,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/skin4/skinanim.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/skinanim.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/cn_skin1/view/skinanim.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/cn_skin4/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "036731c0aa3f44990c33db851e5490ad357ea909cd8816c0369b9efac6ffea56",
+        "size": 702915,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/dots/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/cn/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/cn/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "a018db0b424084ed0bb90065d62d0547bf696289854472518e838a78f131ea0c",
+        "size": 269787,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/dots/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/cn_skin1/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/cn_skin1/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "07d8d2ac1adf13e0fa9e4417c1e177ce145736798bf3bff7b8d6cd5bf0184d3c",
+        "size": 702761,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/cn_skin4/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/dots/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/cn_skin4/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "d3d0cb56796e3fcbe1b04512b8930e325863a26e7c1bf9f3e9ac20d647cf91bb",
+        "size": 269823,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/cn_skin5/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/dots/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/cn_skin5/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "4a07c0baf9bcb027be058f0ffa31cfc9793e9cdf7a699a71ea41c3da647985a9",
+        "size": 697289,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock1/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock2/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/original/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock1/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock2/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "56f58192cfea735c1a9e1c321a7cea79dc677d95dd91e978e4a32acd6c608d02",
+        "size": 266554,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/stock1/view/skinanim.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/stock4/view/skinanim.res",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/original/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "5dc62267983d701e5f9c82bed81bdb96c3e8f95bbd1c9b9d738469365d87af5d",
+        "size": 266643,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock1/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock4/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/original/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock1/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock4/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "98c6ba8ac40f44df8cf5b9d0b05114f7330bad350c1a7fe1d171771887b8a541",
+        "size": 697144,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock3/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock3/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "3173bdb58a7e21f1be7746003020fd04201750ae398e9b6d05d1fe2ffbbf44a4",
+        "size": 697135,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock4/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock4/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/original/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "047dea9f9d28d739b651f6461f5ec719e2c19e0e907cae485c26d30aa51f0e1c",
+        "size": 698210,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock5/view/skinanim.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock5/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "50e738f38cd49f1998c3a2bfa32778b6bba6dfd0721142e6800950cba7101ff0",
+        "size": 266643,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock5/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock6/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock8/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock5/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock6/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock8/view/skinanim.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/original/view/skinanim.res"
+        ]
+      },
+      {
+        "sha256": "35f6240086d01006403e02c89846d5cec5583c2366c9772aa133b6c98e80069b",
+        "size": 78254,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/allowed/stock.res",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/allowed/stock.res"
+        ]
+      },
+      {
+        "sha256": "4aebdcf4206e3e805e54ad95b195690d0783ae9d14de77484a899a88f606f596",
+        "size": 67656,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/allowed/stock.res"
+        ]
+      },
+      {
+        "sha256": "bab41bbd43f7f49ba78097c16388186079927af803634ce0b2cdf1177ff0929d",
+        "size": 67852,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/allowed/stock.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/allowed/stock.res"
+        ]
+      },
+      {
+        "sha256": "d18a116ba84451cfa84c15b667ed368237c0e3823aa98282911217aee7460ebb",
+        "size": 5786259,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/runtime_guard/tsd.mibstd2.hmi.v2.jxe",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/runtime_guard/tsd.mibstd2.hmi.v2.jxe",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/runtime_guard/tsd.mibstd2.hmi.v2.jxe"
+        ]
+      },
+      {
+        "sha256": "15adea09b9327769cf06c06068d5d765deff3a9da289819af0cad654dfb2a4c5",
+        "size": 16540,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/original/view/v2vanims.res",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/original/view/v2vanims.res"
+        ]
+      },
+      {
+        "sha256": "4cdbb90e4c75093059fe56fd42a0044f3cbfdabd26149a8d2b8ad9a2bc2f5b88",
+        "size": 16540,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/original/view/v2vanims.res"
+        ]
+      },
+      {
+        "sha256": "0d30f695670b394d8db03f5ef762c60b9bbfafcadaa2938254e99a6f6c2b08fc",
+        "size": 9174809,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/skin4/viewhandler.zip",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/cn_skin4/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "126f888697ba44268cb92d15e1b0bb2d3229e0531d2abcbf09312d8269e14a94",
+        "size": 9180023,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/dots/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/cn_skin1/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/cn_skin1/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "878ca1804a13b1f4c464d4550c7a3dbbd14719d4be5feb96fe125aee0ba0eb61",
+        "size": 11329160,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/dots/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/cn/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/cn/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "f15e204db7f1b18fc24a3677d784a86608eb668b5e0ac507516c6a55b6b2d259",
+        "size": 9174800,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/dots/viewhandler.zip",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/cn_skin1/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "2ddff372e0c5eda253cbe1629b0217a4a0d9fb818a53832c6c8f2dabe7c0cbbd",
+        "size": 11334407,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/cn_skin4/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/dots/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/cn_skin4/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "ccd5c53823d13244781bb363ba411f1c98a1d39e5ed8b5614fb7da2717f49ac1",
+        "size": 9178420,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/cn_skin5/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/dots/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/cn_skin5/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "48f362890f06a858606aad0e5a8720342f954201f3c0cb4769f0c1fee994a74d",
+        "size": 9179007,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/stock1/viewhandler.zip",
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/original/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "94a9e2740e4f0d413e86ad8b021431f0e5b664e1fb8a66749a6468b4e3f348a6",
+        "size": 11326805,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock1/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock1/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "e9db94baf355ee338691137702bbe96864080d031033b27f826b1973f5ee8666",
+        "size": 9184238,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock1/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/original/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock1/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "8b4d8b529f2da067bf9b3bcc5f4eaa1ff9ae106739f24dd78e12cd09de4df8fa",
+        "size": 11327022,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock2/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/original/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock2/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "66fc7aa4399372e46cebf71d396f4f635025c3e238a20accd2e12f2744ff7688",
+        "size": 11331228,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock3/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock3/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "37f609e8b5eab8a24bb2b923c5a0ed8803886c9a36ae07b656fca0f09a40bbef",
+        "size": 11332251,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock4/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock4/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/original/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "62b6a0a7d37807b40ff5e8d3cc9c597963007efb19ab76a9818ff9cab6da9983",
+        "size": 9187698,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock4/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock4/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "b69d4471feab5e866430298c34ea887a0d82ee4d31e7b017e59eefa5975aed27",
+        "size": 9182668,
+        "paths": [
+          "Projects/MST2_EU_VW_PQ_P0480T/cpuplus/skin1/installer/status_refs/stock4/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "686b61535ab9a9ef342ba9d73c048fc4324b6511cb35331bb84e411a48566cb8",
+        "size": 9182724,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock5/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock5/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/original/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "c7643f50b7ef025d6327b780f06c8b4a05cd04177ede98dc34b698eadb42ce0d",
+        "size": 11337250,
+        "paths": [
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin2/installer/status_refs/stock5/viewhandler.zip",
+          "Projects/MST2_EU_SE_ZR_P0516T/cpu/skin4/installer/status_refs/stock5/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "ce60f82903870c282b28e0754c65ce46568cf66bebea231460cc13fd2780299f",
+        "size": 9182598,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock6/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock6/viewhandler.zip"
+        ]
+      },
+      {
+        "sha256": "dfcbf7793ebd6d813b231395af16fa0d87de8a3e3bbdf064db0b403ce171c3a5",
+        "size": 9186168,
+        "paths": [
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin1/installer/status_refs/stock8/viewhandler.zip",
+          "Projects/MST2_EU_VW_ZR_P0478T/cpuplus/skin5/installer/status_refs/stock8/viewhandler.zip"
+        ]
+      }
+    ]
+  }
+}

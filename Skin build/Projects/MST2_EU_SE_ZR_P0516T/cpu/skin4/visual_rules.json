@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "profile": {
+    "firmware": "MST2_EU_SE_ZR_P0516T",
+    "variant": "cpu",
+    "source_skin": "skin4"
+  },
+  "scope": "Source project identity; independent of the destination slot number.",
+  "image_copies": [
+    {
+      "source_export_index": 2032,
+      "destination_export_index": 2027,
+      "source_mcf_id": 2033,
+      "destination_mcf_id": 2028,
+      "purpose": "Retain the Vehicle Status separator lines in Sport while preserving the source transparency."
+    }
+  ],
+  "protected_mcf_ids": [
+    2013
+  ],
+  "precedence": "Apply after the NORMAL65 particle/background adaptation. Do not clear img_2027 after this rule.",
+  "other_profiles": "Do not apply to skin2, other source skins, cpuplus or another firmware."
+}

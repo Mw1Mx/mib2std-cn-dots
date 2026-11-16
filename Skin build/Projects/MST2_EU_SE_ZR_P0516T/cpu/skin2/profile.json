@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "enabled": true,
+  "firmware": "MST2_EU_SE_ZR_P0516T",
+  "variant": "cpu",
+  "source_skin": "skin2",
+  "compiler": "mcf_b1_v1",
+  "variant_meaning": "Navigation, per project convention",
+  "build": {
+    "background_indexes": [
+      2050,
+      2051,
+      2052,
+      2053,
+      2059,
+      2070,
+      2071,
+      2072,
+      2075,
+      2098,
+      2099,
+      2100,
+      2101
+    ],
+    "protected_backgrounds": [
+      2074,
+      2086,
+      2094,
+      2095,
+      2096,
+      2102
+    ],
+    "transparent": [
+      2088,
+      2097,
+      2099
+    ],
+    "sd_notice_export_index": 2074,
+    "copies": {
+      "global": {
+        "2046": 2047,
+        "2049": 2047
+      },
+      "personal": {}
+    },
+    "display_prefixes": {
+      "global": "[CN_Dots]-",
+      "personal": "[CN_Dots]-"
+    }
+  }
+}

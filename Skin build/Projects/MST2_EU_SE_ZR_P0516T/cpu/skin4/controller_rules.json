@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "firmware": "MST2_EU_SE_ZR_P0516T",
+  "variant": "cpu",
+  "source_skin": "skin4",
+  "rule": "ecotrainer_cover_visibility_v1",
+  "asset": "dots/viewhandler.zip",
+  "entry": "Ctt.jxe",
+  "widget": "IMAGE_TO_HIDE_CAR",
+  "property": "visible",
+  "value": false,
+  "before_sha256": "b6e961e6d790ca3dfa8da2a58add0e7251dd877457cc0f8c5f2fb5a10fa148c4",
+  "after_sha256": "e9054325dba50619b597df0734571c1600c7e302815b5ab6d1798a5ef0bd1b21",
+  "shared_bitmap_preserved": "img_2024 / MCF 2025 / logical image 69",
+  "sd_notice_preserved": "img_2012 / MCF 2013 / logical image 119"
+}

@@ -1,0 +1,16 @@
+{
+  "compact_assets.py": "d88a15bf6cd0fe8f94ead3343b92976d291b24afcb2e93e260837f3dcdbb381e",
+  "compact_distribution.json": "8256127f5ff4256b3d45c011d96705f6f5871c8b0e8d7b95942fa5b8c1fa34ac",
+  "greenmenu/cn-variant-dots.esd": "a4dac3c9472456641aef3ebd4342cd541005f4ddb520dbdbe4dea8dbe8463358",
+  "greenmenu/scripts/cn_variant_dots.sh": "62051a07ec8afd46fe41c67ab7effaae07d6c786ddbab16fc2ffeb68d636229b",
+  "greenmenu/scripts/cn_variant_dots_clean.sh": "a83c18d3113860b9438b8aa44edd0a3b66698ec69e3edea8aeff9f8f6b17b952",
+  "greenmenu/scripts/cn_variant_dots_restore.sh": "4b63b07cc060fde65096b34c9b539b8b17e84132e34a4de3c3622e7d209563f5",
+  "greenmenu/scripts/cn_variant_dots_status.sh": "f93d48bacb7ca77fab3ca2677763668255fa362de7cc5df899512072e49244a8",
+  "support/cn_variant_dots.sh": "62051a07ec8afd46fe41c67ab7effaae07d6c786ddbab16fc2ffeb68d636229b",
+  "support/cn_variant_dots_clean.sh": "a83c18d3113860b9438b8aa44edd0a3b66698ec69e3edea8aeff9f8f6b17b952",
+  "support/cn_variant_dots_restore.sh": "4b63b07cc060fde65096b34c9b539b8b17e84132e34a4de3c3622e7d209563f5",
+  "support/cn_variant_dots_status.sh": "f93d48bacb7ca77fab3ca2677763668255fa362de7cc5df899512072e49244a8",
+  "support/engine.sh": "f699bd5e78cca055c075d2824ed829c2d69cc9b86fd170852c4c5cf7d18defd7",
+  "support/format.txt": "5d0e6a013a4b197aed66fad4976abc1e7ac1502b647b25ee5020f2a63c9bf9ec",
+  "support/maintenance.sh": "fbec01473cdf6746a1cc32633316bc4d91239ee1a6db9eba69e318664cb439e7"
+}
