@@ -5,12 +5,11 @@ Bring Chinese-market dots animations and transitions to European **MIB2 Standard
 Build compatible skins from your unit's original resources, install them through Toolbox, and restore the original files when needed.
 
 
-### Volkswagen PQ - Golden dots 🟡
-<img width="1426" height="1600" alt="IMG-20261112-WA0008(1)" src="https://github.com/user-attachments/assets/48f5d95c-4fb4-4144-b6c8-289f4d4d81be" />
-
-
-### Seat ZR - Ambient light dots 🚗
+### Seat ZR P0516T - Ambient light dots 🚗
 <img width="1285" height="938" alt="20261110_165356_1" src="https://github.com/user-attachments/assets/7e0defed-50ba-4919-bfc9-db898b9f0bd2" />
+
+### Volkswagen PQ P4080T - Golden dots 🟡
+<img width="1426" height="1600" alt="IMG-20261112-WA0008(1)" src="https://github.com/user-attachments/assets/48f5d95c-4fb4-4144-b6c8-289f4d4d81be" />
 
 
 
